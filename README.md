@@ -18,6 +18,6 @@ https://ianahuja.com
 # archive
 **[arch-linux-installation](https://github.com/12ian34/arch-linux-installation)**  
 **[n8n-nodes-attio](https://github.com/12ian34/n8n-nodes-attio)**  
-🎶 **[kabuto](https://github.com/12ian34/kabuto)** kaboodle resale queue notifier  
+**[kabuto](https://github.com/12ian34/kabuto)**
 **[downloads.khinsider.com_scraper](https://github.com/12ian34/downloads.khinsider.com_scraper)**  
 **[spookyaction.media](https://github.com/12ian34/spookyaction.media)**
