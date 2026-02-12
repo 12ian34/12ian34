@@ -2,12 +2,14 @@ https://ianahuja.com
 
 # live
 🎙️ **[miniti](https://ianahuja.com/miniti/)** native AI meeting assistant for macOS and iOS  
+🎹 **[moonquake](https://m-oonquake.bandcamp.com/)** synthesizer experiments  
 🍽️ **[ahuja supper clubs](https://ianahuja.com/supperclubs/)** london supper clubs and picnics  
+
 🏌️ **[ruffryder.golf](https://github.com/12ian34/ruffryder.golf)** golf tournament real-time multi-game scoring and tracking app  
 🌱 **[plantle](https://github.com/12ian34/plantle)** plant based word game  
 🌀 **[airlab-dash](https://github.com/12ian34/airlab-dash)** airlab mqtt logger with grafana dash  
 ☁️ **[aranet4-dash](https://github.com/12ian34/aranet4-dash)** aranet4 logger with grafana dash  
-📻 **[nts-radio-daily-schedule](https://github.com/12ian34/nts-radio-daily-schedule)** Daily schedule notifier for NTS Radio using ntfy.sh  
+📻 **[nts-radio-daily-schedule](https://github.com/12ian34/nts-radio-daily-schedule)** daily nts radio schedule notifier 
 📊 **[trading212-portfolio-manager](https://github.com/12ian34/trading212-portfolio-manager)** stock portfolio manager and rebalancer  
 🃏 **[unique-shuffle](https://github.com/12ian34/unique-shuffle)** unique card shuffling game with achievements  
 ↩️ **[curve-chaos](https://github.com/12ian34/curve-chaos)** achtung die kurva local multiplayer web game  
