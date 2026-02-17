@@ -10,6 +10,8 @@
 🌩️ [airlightdash](https://github.com/12ian34/airlightdash) airlab mqtt logger with lightdash  
 🌀 [airlab-dash](https://github.com/12ian34/airlab-dash) airlab mqtt logger with grafana dash  
 ☁️ [aranet4-dash](https://github.com/12ian34/aranet4-dash) aranet4 logger with grafana dash  
+🔭 [m5paper-dash-astro](https://github.com/12ian34/m5paper-dash-astro) m5paper astronomy dash  
+💸 [m5paper-dash-trading212](https://github.com/12ian34/m5paper-dash-trading212) m5paper trading212 dash  
 📻 [nts-radio-daily-schedule](https://github.com/12ian34/nts-radio-daily-schedule) daily nts radio schedule notifier  
 📊 [trading212-portfolio-manager](https://github.com/12ian34/trading212-portfolio-manager) stock portfolio manager and rebalancer  
 🃏 [unique-shuffle](https://github.com/12ian34/unique-shuffle) unique card shuffling game with achievements  
