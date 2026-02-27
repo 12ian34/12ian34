@@ -1,6 +1,6 @@
 # live
 ⚡ [lightdash](https://github.com/lightdash/lightdash) open source agentic analytics platform  
-🎙️ [miniti](https://ianahuja.com/miniti/) native AI meeting assistant for macOS and iOS  
+🎙️ [miniti](https://miniti.app/) native AI meeting assistant for macOS and iOS  
 🎹 [moonquake](https://m-oonquake.bandcamp.com/) synthesizer experiments  
 🍽️ [ahuja supper clubs](https://ianahuja.com/supperclubs/) london supper clubs and picnics  
 🏠 [ianahuja.com](https://github.com/12ian34/ianahuja.com) personal website  
