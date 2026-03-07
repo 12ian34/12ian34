@@ -3,6 +3,7 @@
 🎙️ [miniti](https://miniti.app/) native AI meeting assistant for macOS and iOS  
 🎹 [moonquake](https://m-oonquake.bandcamp.com/) synthesizer experiments  
 🍽️ [ahuja supper clubs](https://ianahuja.com/supperclubs/) london supper clubs and picnics  
+🧠 [synapse](https://github.com/jawciu/synapse) personal AI coach  
 🏠 [ianahuja.com](https://github.com/12ian34/ianahuja.com) personal website  
 
 🏌️ [ruffryder.golf](https://github.com/12ian34/ruffryder.golf) golf tournament real-time multi-game scoring and tracking app  
