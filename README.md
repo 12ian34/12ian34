@@ -3,6 +3,7 @@
 🎙️ [miniti](https://miniti.app/) native AI meeting assistant for macOS and iOS  
 🎹 [moonquake](https://m-oonquake.bandcamp.com/) synthesizer experiments  
 🍽️ [ahuja supper clubs](https://ianahuja.com/supperclubs/) london supper clubs and picnics  
+🍽️ [loclocloc](https://github.com/12ian34/loclocloc) map to help find a place to live in london  
 🧠 [synapse](https://github.com/jawciu/synapse) personal AI coach  
 🏠 [ianahuja.com](https://github.com/12ian34/ianahuja.com) personal website  
 
