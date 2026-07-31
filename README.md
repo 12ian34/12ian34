@@ -1,6 +1,7 @@
 # live
 ⚡ [lightdash](https://github.com/lightdash/lightdash) open source agentic analytics platform  
 🎙️ [miniti](https://miniti.app/) native AI meeting assistant for macOS and iOS  
+📈 [analytics tycoon](https://analytics-tycoon.netlify.app/) data stack strategy game  
 🎹 [moonquake](https://m-oonquake.bandcamp.com/) synthesizer experiments  
 🍽️ [ahuja supper clubs](https://ianahuja.com/supperclubs/) london supper clubs and picnics  
 🗺️ [loclocloc](https://github.com/12ian34/loclocloc) map to help find a place to live in london  
